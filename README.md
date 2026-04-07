@@ -1,27 +1,4 @@
 
-## MAG⚡ Narrative
-
-Hoje… qualquer arquivo pode ser copiado, alterado ou falsificado.
-
-O RGI muda isso.
-
-Antes do registro… existe um padrão.
-
-O Protocolo MAG⚡ transforma qualquer ativo do mundo real  
-em uma identidade digital verificável.
-
-Não é só um hash.
-
-É evidência.
-
-Validada.  
-Imutável.  
-Compartilhável.  
-Em segundos.
-
-RGI — o padrão MAG⚡ de veracidade digital.
-
----
 
 Today… any file can be copied, altered, or falsified.
 
@@ -71,6 +48,29 @@ Before hashing, the system standardizes and processes the input into a canonical
 
 This transforms simple data registration into structured, verifiable digital evidence.
   
+
+
+## MAG⚡ Narrative
+
+Hoje… qualquer arquivo pode ser copiado, alterado ou falsificado.
+
+O RGI muda isso.
+
+Antes do registro… existe um padrão.
+
+O Protocolo MAG⚡ transforma qualquer ativo do mundo real  
+em uma identidade digital verificável.
+
+Não é só um hash.
+
+É evidência.
+
+Validada.  
+Imutável.  
+Compartilhável.  
+Em segundos.
+
+RGI — o padrão MAG⚡ de veracidade digital
 
 ## Contact
 
