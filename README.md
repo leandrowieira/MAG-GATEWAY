@@ -1,7 +1,7 @@
  ## MAG⚡Gateway - RGI PROTOCOL 
 
-
 A protocol for generating verifiable digital evidence from real-world data.
+
 RGI changes that.
 
 Before registration… there is a standard.
