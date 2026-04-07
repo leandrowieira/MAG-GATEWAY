@@ -2,7 +2,7 @@
 
 A protocol for generating verifiable digital evidence from real-world data.
 
-RGI changes that.
+RGI addresses this at the protocol level.
 
 Before registration… there is a standard.
 
