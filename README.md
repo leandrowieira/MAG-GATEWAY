@@ -1,4 +1,4 @@
- ## MAG⚡Gateway
+ ## MAG⚡Gateway - RGI PROTOCOL 
 
 Today… any file can be copied, altered, or falsified.
 
