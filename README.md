@@ -1,4 +1,4 @@
- ## MAG⚡ Narrative
+ ## MAG⚡Gateway
 
 Today… any file can be copied, altered, or falsified.
 
