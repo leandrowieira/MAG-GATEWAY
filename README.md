@@ -1,7 +1,7 @@
  ## MAG⚡Gateway - RGI PROTOCOL 
 
-Today… any file can be copied, altered, or falsified.
 
+A protocol for generating verifiable digital evidence from real-world data.
 RGI changes that.
 
 Before registration… there is a standard.
