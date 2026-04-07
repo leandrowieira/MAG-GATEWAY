@@ -76,7 +76,33 @@ Antes do hashing, o sistema padroniza e processa o input em um formato canônico
 
 Isso transforma um simples registro de dados em evidência digital estruturada e verificável.
 
----
+
+## How it works — RGI Pipeline
+
+Input  
+→ Raw file or real-world asset is submitted  
+
+Processing  
+→ Input is normalized into a canonical format  
+
+Evidence Generation  
+→ A unique digital representation is created  
+
+Identity Formation  
+→ Deterministic identity is generated  
+
+Hashing  
+→ Cryptographic hash is created  
+
+On-chain Registration  
+→ Hash is recorded on Solana  
+
+QR Code  
+→ Public verification access is generated  
+
+Verification  
+→ Future inputs are compared against the original
+
 
 ## Contact
 
