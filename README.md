@@ -1,59 +1,64 @@
-
-# MAG⚡ Gateway
-
-Verifiable truth infrastructure built on Solana.
-
----
-
-## Core Concept
+## Core Architecture
 
 MAG⚡ is not a document system.
 
-It is an evidence layer.
-
-We transform real-world data into verifiable digital evidence.
-
----
-
-## How it works
+It is a verifiable evidence layer.
 
 Input → Processing → Evidence → Identity → Hash → On-chain → QR Code → Verification
 
----
-
-## Key Differentiator
-
-Proof before finalization.
-
-MAG⚡ generates a cryptographic identity before the document exists.
+The system standardizes real-world data into a canonical format before generating cryptographic proof, ensuring consistency and reliability across different capture conditions.
 
 ---
 
-## RGI — Immutable General Registry
+## Strategic Positioning
 
-The engine behind MAG⚡.
+MAG⚡ RGI establishes the truth about the origin of data — a foundational layer for the next generation of decentralized applications.
 
-- Converts data into cryptographic hash  
-- Registers on Solana  
-- Ensures immutability  
-- Enables instant verification  
+By transforming real-world data into verifiable digital evidence, MAG⚡ unlocks Real World Assets (RWAs), enabling trust, traceability, and on-chain integration at scale.
+
+This positions Solana not just as a high-performance blockchain, but as the infrastructure layer for the real-world economy.
+
+## RGI Flow — From Origin to Verification
+
+MAG⚡ RGI operates across two fundamental phases: before and after digital finalization.
+
+### Before Finalization (Proof of Origin)
+
+The system generates a cryptographic identity of the asset at the moment of its creation.
+
+Instead of validating a finished document, MAG⚡ captures its origin.
+
+• Raw input is processed and normalized into a canonical format  
+• A unique digital identity (evidence layer) is generated  
+• This identity is converted into a cryptographic hash  
+• The hash is registered on-chain (Solana)  
+• A QR Code is generated as a public verification gateway  
+
+This creates a “digital birth certificate” — immutable, time-stamped, and tamper-evident.
+
+Any future modification breaks the original chain of integrity.
 
 ---
 
-## Status
+### After Finalization (Verification Layer)
 
-- Architecture defined  
-- Protocol in development  
-- Demo in progress  
+Once the asset exists in the real world, verification becomes instant and trustless.
 
----
+• The QR Code is scanned  
+• The system retrieves the original on-chain hash  
+• A new scan generates a fresh digital identity  
+• The system compares both identities  
+• If matched → Authentic  
+• If mismatched → Altered / Invalid  
 
-## Vision
+The evidence layer ensures recognition, while cryptography guarantees certainty.
 
-To become the global standard for verifiable truth.
+MAG⚡ does not store files.
 
----
+It stores verifiable truth.
 
 ## Contact
 
 mag@maggateway.net
+
+
