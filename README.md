@@ -1,8 +1,10 @@
- ## MAG⚡Gateway - RGI PROTOCOL 
+
+
+# MAG⚡ Gateway — RGI Protocol
 
 A protocol for generating verifiable digital evidence from real-world data.
 
-RGI addresses this at the protocol level.
+RGI solves this at the protocol layer.
 
 Before registration… there is a standard.
 
@@ -11,12 +13,12 @@ into a unique and verifiable digital identity.
 
 It’s not just a hash.
 
-It is evidence.
+It is verifiable evidence.
 
 Validated.  
 Immutable.  
 Shareable.  
-In seconds.
+Verified in seconds.
 
 RGI — the MAG⚡ standard for digital veracity.
 
@@ -38,25 +40,25 @@ This transforms simple data registration into structured, verifiable digital evi
 
 ## 🇧🇷 Versão em Português
 
-### Narrativa
+### MAG⚡ Gateway — RGI Protocol
 
 Hoje… qualquer arquivo pode ser copiado, alterado ou falsificado.
 
-O RGI muda isso.
+O RGI resolve isso no nível de protocolo.
 
 Antes do registro… existe um padrão.
 
 O Protocolo MAG⚡ transforma qualquer ativo do mundo real  
-em uma identidade digital verificável.
+em uma identidade digital única e verificável.
 
-Não é só um hash.
+Não é apenas um hash.
 
-É evidência.
+É evidência verificável.
 
 Validada.  
 Imutável.  
 Compartilhável.  
-Em segundos.
+Verificada em segundos.
 
 RGI — o padrão MAG⚡ de veracidade digital.
 
@@ -74,6 +76,10 @@ Antes do hashing, o sistema padroniza e processa o input em um formato canônico
 
 Isso transforma um simples registro de dados em evidência digital estruturada e verificável.
 
+---
 
-contact:
+## Contact
+
 mag@maggateway.net
+
+
