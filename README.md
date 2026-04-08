@@ -38,70 +38,75 @@ This transforms simple data registration into structured, verifiable digital evi
 
 ---
 
-## 🇧🇷 Versão em Português
+## 🇧🇷 
+# MAG⚡ Gateway — RGI Protocol
 
-### MAG⚡ Gateway — RGI Protocol
+Infraestrutura de veracidade digital para o mundo real.
 
-Hoje… qualquer arquivo pode ser copiado, alterado ou falsificado.
-
-O RGI resolve isso no nível de protocolo.
-
-Antes do registro… existe um padrão.
-
-O Protocolo MAG⚡ transforma qualquer ativo do mundo real  
-em uma identidade digital única e verificável.
-
-Não é apenas um hash.
-
-É evidência verificável.
-
-Validada.  
-Imutável.  
-Compartilhável.  
-Verificada em segundos.
-
-RGI — o padrão MAG⚡ de veracidade digital.
+O RGI (Registro Geral Imutável) não registra arquivos.
+Ele registra evidência.
 
 ---
 
-### Diferencial Técnico
+## ⚡ O QUE O RGI FAZ
 
-A maioria dos sistemas possui apenas uma camada: o hash.
+O RGI transforma qualquer ativo do mundo real em uma identidade digital verificável.
 
-O RGI vai além.
+• Prova quando foi criado  
+• Prova quem registrou  
+• Prova que não foi alterado  
+• Permite verificação instantânea via QR Code  
 
-Ele introduz uma segunda camada de segurança baseada na geração de evidência.
+Não é apenas hash.  
+É evidência verificável.
 
-Antes do hashing, o sistema padroniza e processa o input em um formato canônico, garantindo consistência, confiabilidade e resistência a variações do mundo real.
+---
 
-Isso transforma um simples registro de dados em evidência digital estruturada e verificável.
+## 🧠 POSICIONAMENTO
 
+O Estado valida a fé pública.  
+A MAG⚡ valida a veracidade digital.
 
-## How it works — RGI Pipeline
+O RGI não substitui cartórios.  
+Ele cria uma nova camada de confiança — global, matemática e descentralizada.
 
-Input  
-→ Raw file or real-world asset is submitted  
+---
 
-Processing  
-→ Input is normalized into a canonical format  
+## 🔐 O QUE O RGI GARANTE
 
-Evidence Generation  
-→ A unique digital representation is created  
+✔ Integridade do conteúdo  
+✔ Timestamp imutável  
+✔ Identidade do registro (MAG-ID)  
+✔ Assinatura digital das partes  
 
-Identity Formation  
-→ Deterministic identity is generated  
+---
 
-Hashing  
-→ Cryptographic hash is created  
+## ⚠️ O QUE O RGI NÃO GARANTE
 
-On-chain Registration  
-→ Hash is recorded on Solana  
+✖ Que o conteúdo é verdadeiro por si só  
+✖ Que o bem existe  
+✖ Validade jurídica estatal  
 
-QR Code  
-→ Public verification access is generated  
+A responsabilidade do conteúdo é de quem assina — como qualquer contrato.
 
-Verification  
-→ Future inputs are compared against the original
+---
+
+## ⚡ EVIDENCE PIPELINE
+
+MAP / SCAN → Captura do ativo  
+CANONICALIZATION → Padronização  
+EVIDENCE → Identidade digital  
+HASH → Criptografia  
+RGI (Solana) → Registro on-chain  
+QR → Verificação  
+
+---
+
+## 🌍 VISÃO
+
+A MAG⚡ é a camada de confiança da internet.
+
+Do papel ao imutável em segundos.
 
 
 ## Contact
