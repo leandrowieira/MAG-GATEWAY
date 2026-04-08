@@ -11,87 +11,82 @@ body {
     color: white;
     font-family: Arial, sans-serif;
     text-align: center;
+    padding: 40px 20px;
 }
-
-/* TÍTULO */
 h1 {
     font-size: 42px;
-    margin-top: 60px;
     background: linear-gradient(90deg, #9945FF, #14F195);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
-
-/* CARD */
 .card {
-    margin: 40px auto;
-    padding: 30px;
-    width: 90%;
-    max-width: 600px;
     background: rgba(255,255,255,0.03);
-    border-radius: 20px;
-    border: 1px solid rgba(255,255,255,0.1);
-    box-shadow: 0 0 30px rgba(20,241,149,0.1);
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 16px;
+    padding: 30px;
+    margin-top: 40px;
+    box-shadow: 0 0 40px rgba(20,241,149,0.08);
 }
-
-/* STATUS */
-.status {
-    font-size: 22px;
-    color: #14F195;
-    margin: 20px 0;
-}
-
-/* HASH */
-.hash {
-    font-size: 14px;
-    opacity: 0.7;
-    word-break: break-all;
-}
-
-/* BOTÃO */
 button {
-    margin-top: 30px;
-    padding: 15px 25px;
-    border-radius: 12px;
-    border: none;
-    font-size: 16px;
-    background: linear-gradient(90deg, #9945FF, #14F195);
-    color: black;
-    cursor: pointer;
-}
-
-/* FOOTER */
-.footer {
-    margin-top: 60px;
-    opacity: 0.4;
-    font-size: 12px;
+    margin-top:20px;
+    padding:12px 24px;
+    border:none;
+    border-radius:10px;
+    background: linear-gradient(90deg,#9945FF,#14F195);
+    color:black;
+    font-weight:bold;
 }
 </style>
+
 </head>
 
 <body>
 
 <h1>MAG⚡ Gateway</h1>
+<p style="opacity:0.7;">Infraestrutura de veracidade digital</p>
 
 <div class="card">
 
-    <div class="status">✔ DOCUMENTO AUTÊNTICO</div>
+<h2 style="color:#14F195;">✔ DOCUMENTO VERIFICADO</h2>
 
-    <p>Verificado via RGI Protocol</p>
+<p style="opacity:0.7;">Validado via RGI Protocol</p>
 
-    <div class="hash">
-        HASH: 7f3a92c1a8b4e5d2c9f8a1e4d3b6c7a8e9f2c1d4b5a6f7e8d9c0a1b2c3d4e5f
-    </div>
+<p style="font-size:12px; opacity:0.5;">
+HASH: 7f3a92c1a8b4e5d2c9f8a1e4d3b6c7a8e9f2c1d4b5a6f7e8d9c0a1b2c3d4e5f
+</p>
 
-    <button onclick="alert('Validação executada via MAG⚡ RGI')">
-        Verificar novamente
-    </button>
+<button>Verificar novamente</button>
 
 </div>
 
-<div class="footer">
-    RGI — Registro Geral Imutável • Powered by MAG⚡
+<div style="margin-top:50px; opacity:0.8; font-size:14px;">
+
+<p><b>🧠 O que isso significa?</b></p>
+
+<p>
+Este documento possui uma identidade digital registrada no RGI.
+</p>
+
+<p>
+✔ Não foi alterado desde o registro<br>
+✔ Possui timestamp imutável<br>
+✔ Pode ser verificado globalmente
+</p>
+
+<br>
+
+<p><b>⚠️ Importante:</b></p>
+
+<p style="opacity:0.6;">
+O RGI garante integridade e anterioridade.<br>
+O conteúdo é de responsabilidade das partes que assinam.
+</p>
+
 </div>
+
+<p style="margin-top:60px; font-size:12px; opacity:0.4;">
+RGI — Registro Geral Imutável • Powered by MAG⚡
+</p>
 
 </body>
 </html>
